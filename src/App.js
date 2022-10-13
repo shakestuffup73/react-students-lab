@@ -64,7 +64,6 @@ const students = [
     ]
   }
 ]
-
   return (
     <>
       <h1>React Students Lab</h1>
